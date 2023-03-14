@@ -8,6 +8,7 @@ namespace ConsoleApp24
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Novo");
+            Console.WriteLine("perina promjena");
         }
     }
 }
