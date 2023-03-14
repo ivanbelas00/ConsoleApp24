@@ -6,6 +6,6 @@ namespace ConsoleApp24
 {
     class NewClass
     {
-        //bilo sta
+        Console.WriteLine("Staro");
     }
 }
