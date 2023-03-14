@@ -11,4 +11,5 @@ namespace ConsoleApp24
             Console.WriteLine("petrina promjena");
         }
     }
+
 }
